@@ -1,7 +1,7 @@
 <h1>Midi Mix</h1>
 
 <h2> ✉️ Sobre</h2>
-<p>Projeto para praticar JavaScript para Web: Criando páginas dinâmicas</p>
+<p>Projeto para praticar JavaScript para Web: Criando páginas dinâmicas. Ao clicar em nos botões do mix ele emite som e com isso consegue tocar algumas melodias</p>
 
 ## 🚀 Tecnologias
 <div>
